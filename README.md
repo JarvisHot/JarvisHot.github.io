@@ -1,2 +1,0 @@
-# JarvisHot.github.io
-init
